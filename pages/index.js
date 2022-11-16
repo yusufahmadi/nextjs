@@ -27,7 +27,7 @@ export default function Home() {
             <p>My personal wiki using mdBook.</p>
           </a>
 
-          <a href="#" className={styles.card}>
+          <a href="https://yusufahmadi.com" className={styles.card}>
             <h2>Personal Website &uarr;</h2>
             <p>Back to my personal website.</p>
           </a>
